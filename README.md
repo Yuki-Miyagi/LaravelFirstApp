@@ -1,3 +1,5 @@
+# This is my first app with laravel
+## memo
 ## My env to start this app
 ## git clone HTTP or SSH
 ## composer install
